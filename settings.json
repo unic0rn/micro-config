@@ -6,10 +6,6 @@
     "initlua": true,
     "matchbracestyle": "highlight",
     "parsecursor": true,
-    "pluginchannels": [
-        "https://raw.githubusercontent.com/micro-editor/plugin-channel/master/channel.json"
-    ],
-    "pluginrepos": [],
     "savecursor": true,
     "saveundo": true,
     "scrollbar": true,
@@ -18,5 +14,6 @@
     "statusformatl": " $(status.branch) | $(status.hash) | $(filename):$(line):$(col) $(modified)| $(opt:filetype)",
     "statusformatr": "$(opt:fileformat) | $(opt:encoding) ",
     "tabhighlight": true,
-    "tabstospaces": true
+    "tabstospaces": true,
+    "xterm": true
 }
