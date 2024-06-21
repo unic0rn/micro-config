@@ -1,5 +1,5 @@
 {
-    "colorscheme": "solarized-modded",
+    "colorscheme": "solarized-light",
     "cursorline": false,
     "diffgutter": true,
     "eofnewline": false,
@@ -15,7 +15,7 @@
     "scrollbar": true,
     "scrollbarchar": "▌",
     "softwrap": true,
-    "statusformatl": " $(status.branch) | $(status.hash) | $(filename):$(line):$(col) $(modified) | $(opt:filetype)",
+    "statusformatl": " $(status.branch) | $(status.hash) | $(filename):$(line):$(col) $(modified)| $(opt:filetype)",
     "statusformatr": "$(opt:fileformat) | $(opt:encoding) ",
     "tabhighlight": true,
     "tabstospaces": true
